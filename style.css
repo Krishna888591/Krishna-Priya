@@ -1,0 +1,41 @@
+header{
+ height:100px;
+ width:900px;
+ margin:auto;
+ border:1px solid Black;
+ background-color:orange;
+text-align:center;
+}
+nav{
+background-color:Tomato;
+height:100px;
+width:900px;
+margin:auto;
+border:1px solid Black;
+}
+#navigation{
+
+color:blue;
+}
+#content{
+ height:600px;
+ width:900px;
+ text-align:center;
+ margin:auto;
+ border:1px solid Blue;
+font-size:20px;
+padding-top: 50px;
+}
+footer{
+height:100px;
+ width:900px;
+ text-align:center;
+ margin:auto;
+ border:1px solid Blue;
+font-size:20px;
+padding-top: 50px;
+}
+img{
+float:left;
+}
+
